@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84517841504",
+    "project_id": "atividade-de-cadastro-e-login",
+    "storage_bucket": "atividade-de-cadastro-e-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84517841504:android:a506da70e898e5d93db105",
+        "android_client_info": {
+          "package_name": "com.example.cadastrologin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVKRwgW9gG60RVpishKUi5rgyb9hqJPyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
